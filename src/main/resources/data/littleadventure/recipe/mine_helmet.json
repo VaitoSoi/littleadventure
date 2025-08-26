@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:golden_helmet",
+        "minecraft:torch"
+    ],
+    "result": {
+        "id": "littleadventure:mine_helmet",
+        "count": 1
+    }
+}

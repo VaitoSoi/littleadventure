@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#T#",
+        " g ",
+        " / "
+    ],
+    "key": {
+        "#": "minecraft:lapis_lazuli",
+        "T": "minecraft:torch",
+        "g": "minecraft:gold_ingot",
+        "/": "minecraft:stick"
+    },
+    "result": {
+        "id": "littleadventure:torch_wand",
+        "count": 1
+    }
+}

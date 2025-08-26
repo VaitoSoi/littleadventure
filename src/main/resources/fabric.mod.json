@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "littleadventure",
+	"version": "${version}",
+	"name": "LittleAdventure",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/littleadventure/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.vaito.LittleAdventure"
+		],
+		"client": [
+			"dev.vaito.LittleAdventureClient"
+		],
+		"fabric-datagen": [
+			"dev.vaito.LittleAdventureDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.8",
+		"java": ">=21",
+		"fabric-api": "*",
+		"geckolib": ">=5.2.2"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#B#",
+        " # "
+    ],
+    "key": {
+        "#": ["minecraft:leather", "minecraft:rabbit_hide"],
+        "B": ["minecraft:barrel", "minecraft:chest"]
+    },
+    "result": {
+        "id": "littleadventure:backpack",
+        "count": 1
+    }
+}

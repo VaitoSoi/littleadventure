@@ -1,0 +1,7 @@
+{
+  "match": {
+    "type": "littleadventure:torch"
+  },
+  "luminance": 14,
+  "water_sensitive": false
+}

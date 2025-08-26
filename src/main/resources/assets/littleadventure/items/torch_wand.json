@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "littleadventure:item/torch_wand",
+    "model": {
+      "type": "geckolib:geckolib"
+    }
+  }
+}
