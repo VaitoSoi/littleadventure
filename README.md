@@ -23,7 +23,7 @@ Launch a torch :D
 ### 3. Mine Helmet
 
 #### a. Description
-Light up the way (not working now because I don't know how to make glow ;-;)
+Light up the way (just a normal hat for now because I don't know how to make glow ;-;)
 
 #### b. Recipe
 
