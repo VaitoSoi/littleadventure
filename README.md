@@ -37,7 +37,7 @@ Light up the way (not working now because I don't know how to make glow ;-;)
 
 If you're holding a compass, it will show the coordinate in the action bar. As well as Clock will show the current time.
 
-![Demo](https://hc-cdn.hel1.your-objectstorage.com/s/v3/25ae93473083429a163a19b07d5f593556fa2f72_screencast_from_2025-08-26_23-36-53.mp4)
+[Demo video](https://hc-cdn.hel1.your-objectstorage.com/s/v3/25ae93473083429a163a19b07d5f593556fa2f72_screencast_from_2025-08-26_23-36-53.mp4)
 
 ### 2. Flying torch can glow
 
