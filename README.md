@@ -1,5 +1,5 @@
 # Little Adventure
-Adding some stuff to make you journey more enjoyable :D
+Adding some stuff to make your journey more enjoyable :D
 
 [The demo video for voter](https://www.youtube.com/watch?v=rjeb0vmLHSE)
 
